@@ -1,2 +1,4 @@
 # RC4
-RC4 encryption algorithm
+алгоритм шифрования RC4
+# https://glovindan.github.io/RC4/
+
